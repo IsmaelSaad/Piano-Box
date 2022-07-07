@@ -1,7 +1,8 @@
 # Piano-Box
 This repostory will include the content of my first Arduino-Processing project.
 
-Here's a photo of the Arduino circuit so you can do it yourself.
+Here's a photo of the circuit so you can do it yourself.
+
 
 ![ESP32_Pianobox](https://user-images.githubusercontent.com/107066576/177838949-283c1451-9d2b-4556-9cf4-30e95ce90bb9.png)
 
