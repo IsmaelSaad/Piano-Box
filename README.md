@@ -21,5 +21,5 @@ Here's a photo of the circuit so you can do it yourself.
   - Have fun!
 
 # The project
-This is a recreation of a small piano with 8 keys, a potentiometer that controls the pitch. I used the Arduino IDE for this.
+This is a recreation of a small piano with 8 keys, a potentiometer controls the pitch. I used the Arduino IDE for this.
 
